@@ -4,10 +4,11 @@ A minimalist zen-inspired website for GitHub Pages.
 
 ## Features
 
-- **Zen Quotes**: Display random inspirational quotes from zen masters and philosophers
+- **Zen Quotes**: Display random inspirational quotes from zen masters, philosophers, and spiritual teachers
 - **Breathing Exercise**: Interactive breathing guide to help you relax and center yourself
 - **Minimalist Design**: Clean, distraction-free interface with soothing gradient background
 - **Responsive**: Works beautifully on desktop and mobile devices
+- **Accessible**: Full ARIA support for screen readers
 
 ## Live Site
 
@@ -25,4 +26,4 @@ Simply open `index.html` in your browser to view the site locally.
 
 ## License
 
-GNU General Public License v2.0
+This project is licensed under the GNU General Public License v2.0 - see the LICENSE file for details.
