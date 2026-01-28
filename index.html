@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Zensical - A minimalist zen-inspired experience">
+    <title>Zensical</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="title">Zensical</h1>
+            <p class="subtitle">Find your zen</p>
+        </header>
+        
+        <main>
+            <section class="content">
+                <div class="zen-quote" id="quote" role="region" aria-label="Inspirational quote">
+                    <p class="quote-text">"The present moment is the only time over which we have dominion."</p>
+                    <p class="quote-author">— Thích Nhất Hạnh</p>
+                </div>
+                
+                <div class="breathing-guide">
+                    <h2>Breathing Exercise</h2>
+                    <div class="circle" id="breathingCircle" role="status" aria-live="polite">
+                        <span id="breathingText">Breathe</span>
+                    </div>
+                    <button id="breathingBtn" class="btn" aria-label="Start breathing exercise">Start</button>
+                </div>
+            </section>
+        </main>
+        
+        <footer>
+            <p>&copy; <span id="year"></span> Zensical. All rights reserved.</p>
+        </footer>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
