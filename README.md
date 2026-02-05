@@ -2,6 +2,8 @@
 
 A minimalist zen-inspired website for GitHub Pages.
 
+[![BUILD](https://github.com/osde8info/ghp-zen/actions/workflows/build.yaml/badge.svg)](https://github.com/osde8info/ghp-zen/actions/workflows/build.yaml)
+
 ## Features
 
 - **Zen Quotes**: Display random inspirational quotes from zen masters, philosophers, and spiritual teachers
