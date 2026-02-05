@@ -3,6 +3,8 @@
 A minimalist zen-inspired website for GitHub Pages.
 
 [![BUILD](https://github.com/osde8info/ghp-zen/actions/workflows/build.yaml/badge.svg)](https://github.com/osde8info/ghp-zen/actions/workflows/build.yaml)
+[![TEST](https://github.com/osde8info/ghp-zen/actions/workflows/test.yaml/badge.svg)](https://github.com/osde8info/ghp-zen/actions/workflows/test.yaml)
+[![PAGES](https://github.com/osde8info/ghp-zen/actions/workflows/pages.yaml/badge.svg)](https://github.com/osde8info/ghp-zen/actions/workflows/pages.yaml)
 
 ## Features
 
